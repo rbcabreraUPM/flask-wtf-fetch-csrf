@@ -1,3 +1,9 @@
-"# flask-wtf-fetch-csrf" 
+# Flask - WTF / Fetch API
+## Installation
 
-Testing Flask-WTF CSRF Token using fetch API
+Using pipenv
+
+```bash
+pipenv shell
+pipenv install -r ./requirements.txt
+```
